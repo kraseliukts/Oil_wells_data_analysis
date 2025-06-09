@@ -1,4 +1,4 @@
-# Oil_wells_data_analysis
+# Oil well´s data analysis
 
 The dataset cleansing and transformation performed and created static and interactive graphic with plotly library for Oil Well Data Analysis.
 
